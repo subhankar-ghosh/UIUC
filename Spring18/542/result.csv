@@ -1,0 +1,4 @@
+"","model","test_accuracy"
+"1","Linear SVM",0.952941176470588
+"2","Poly SVM",0.95
+"3","Radial SVM",0.166666666666667
